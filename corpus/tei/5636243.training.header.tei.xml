@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="5636243" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<court>
+				HIGH COURT OF JUDICATURE FOR RAJASTHAN BENCH AT JAIPUR
+				<lb />
+			</court>
+			<case_numbers>
+				S.B.Civil Writ Petition No. 2495 / 2017
+				<lb />
+			</case_numbers>
+			<petitioner>
+				Pradeep Kumar
+			</petitioner>
+			<extra>
+				Sharma son of Shri Ganpat Lal Sharma, by Caste
+				<lb />
+				Brahmin, aged about 36 years, Plot No. 72, Shyam Vihar Colony,
+				<lb />
+				Near Anokha Gaon Hotel, Sikar Road, Jaipur (Raj.)
+				<lb />
+				----Petitioner Versus
+				<lb />
+				1.
+			</extra>
+			<respondent>
+				State of Rajasthan through Law Secretary,, Government
+				<lb />
+				Secretariat, Jaipur (Raj.)
+				<lb />
+			</respondent>
+			<extra>
+				2.
+			</extra>
+			<respondent>
+				District &amp; Session Judge, Jaipur Metropolitan, Jaipur (Raj.)
+				<lb />
+			</respondent>
+			<extra>
+				----Respondents _____________________________________________________
+				<lb />
+				For Petitioner(s) :
+			</extra>
+			<petitioner_lawyers>
+				Mr. Nawal Singh Sikarwar, Adv.
+				<lb />
+			</petitioner_lawyers>
+			<extra>
+				For Respondent(s) : _____________________________________________________
+				<lb />
+			</extra>
+			<judges>
+				HON&apos;BLE MR. JUSTICE VEERENDR SINGH SIRADHANA
+			</judges>
+			<document_type>
+				Order
+				<lb />
+			</document_type>
+			<judgement_date>
+				22/02/2017
+				<lb />
+			</judgement_date>
+		</front>
+	</text>
+</tei>

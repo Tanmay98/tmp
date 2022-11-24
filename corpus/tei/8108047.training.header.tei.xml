@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="8108047"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+<lb/>
+	<court>HIGH COURT OF ANDHRA PRADESH:: AMARAVATI<lb/></court>
+
+	<case_numbers>MAIN CASE NO.: C.M.A.No.52 of 2022<lb/></case_numbers>
+
+	<extra>PROCEEDING SHEET<lb/>
+	Sl.<lb/>
+	No.<lb/>
+	Date<lb/></extra>
+
+	<document_type>ORDER<lb/></document_type>
+	
+	<extra>OFFICE<lb/>
+	NOTE<lb/>
+
+	07.<lb/></extra>
+	
+	<judgement_date>10.08.2022<lb/></judgement_date>
+	
+	<judges>KVL, J &amp; DVR, J<lb/></judges>
+	
+	<extra>It is represented that the learned counsel on<lb/>
+	record appearing to the appellant passed away.<lb/>
+	List the matter on 08.09.2022.<lb/></extra>
+
+		</front>
+	</text>
+</tei>

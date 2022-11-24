@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="5978385"/>
+	</teiHeader>
+	<text xml:lang="fr">
+		<front>
+<lb/>
+	<court>HIGH COURT OF JUDICATURE FOR RAJASTHAN<lb/> BENCH AT JAIPUR<lb/></court>
+
+	<case_numbers>S.B. Criminal Appeal No. 284/1987<lb/></case_numbers>
+
+	<petitioner>Smt. Durga<lb/></petitioner>
+	
+	<extra>----Appellant<lb/>
+	Versus<lb/></extra>
+
+	<respondent>State<lb/></respondent>
+	
+	<extra>----Respondent<lb/> For Appellant(s) : None Present<lb/> For Respondent(s) :</extra>
+
+	<respondent_lawyers>Mr. Arvind Kumar</respondent_lawyers>
+	
+	<extra>,
+	PP<lb/></extra>
+
+	<judges>HON&apos;BLE MR. JUSTICE MAHENDAR KUMAR GOYAL<lb/></judges>
+
+	<document_type>Order<lb/></document_type>
+
+	<judgement_date>05/08/2022<lb/></judgement_date>
+
+		</front>
+	</text>
+</tei>

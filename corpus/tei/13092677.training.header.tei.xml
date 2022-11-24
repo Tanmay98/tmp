@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="13092677"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+<lb/>
+	<extra>SL.<lb/> No<lb/>
+	Date<lb/>
+	Office Notes,<lb/> reports, orders or<lb/> proceedings or<lb/> directions and<lb/> Registrar&apos;s order<lb/> with Signatures<lb/></extra>
+	
+	<document_type>COURT&apos;S OR JUDGES&apos;S ORDERS<lb/></document_type>
+	
+<case_numbers>BA1 No.1826 of 2022<lb/></case_numbers>
+
+	<judges>Hon&apos;ble R.C. Khulbe, J.<lb/></judges>
+
+	<petitioner_lawyers>Ms Sheetal Selwal</petitioner_lawyers>
+	
+	<extra>, learned counsel for the<lb/>
+	appellant.<lb/></extra>
+
+	<respondent_lawyers>Mr. Pankaj Joshi</respondent_lawyers>
+	
+	<extra>, learned B.H. for the State.<lb/>
+	List this matter on 23.9.2022.<lb/>
+	By then, the State counsel is directed to file<lb/>
+	counter affidavit in the matter.<lb/></extra>
+
+	<extra>(R.C. Khulbe, J.)<lb/> </extra>
+	
+	<judgement_date>06.08.2022<lb/></judgement_date>
+
+		</front>
+	</text>
+</tei>

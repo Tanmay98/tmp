@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="5978376"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+<lb/>
+	<court>HIGH COURT OF JUDICATURE FOR RAJASTHAN<lb/> BENCH AT JAIPUR<lb/></court>
+
+	<case_numbers>S.B. Criminal Appeal No. 874/2015<lb/></case_numbers>
+
+	<petitioner>Hanuman Singh<lb/></petitioner>
+	
+	<extra>----Appellant<lb/>
+	Versus<lb/></extra>
+
+	<respondent>State Of Rajasthan Through Pp<lb/></respondent>
+	
+	<extra>----Respondent<lb/> For Appellant(s) :</extra>
+
+	<petitioner_lawyers>Mr. Harendra Singh<lb/></petitioner_lawyers>
+	
+	<extra>For Respondent(s) :</extra>
+
+	<respondent_lawyers>Mr. S.S. Mahla, PP<lb/> Mr. Ali Mohd. Khan</respondent_lawyers>
+	
+	<extra>, for the complainant<lb/></extra>
+
+	<judges>HON&apos;BLE MR. JUSTICE INDERJEET SINGH<lb/></judges>
+
+	<document_type>Order<lb/></document_type>
+	
+	<judgement_date>05/08/2022<lb/></judgement_date>
+
+	<extra> At the request of learned counsel for the appellant, list on<lb/>
+	26.08.2022.<lb/> (INDERJEET SINGH),J<lb/></extra>
+
+		</front>
+	</text>
+</tei>

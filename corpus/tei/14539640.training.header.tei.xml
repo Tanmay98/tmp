@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="14539640"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+<lb/>
+
+	<judgement_date>16.12.13<lb/>
+	</judgement_date>
+	
+	<extra>1/ skp.<lb/>
+	</extra>
+	
+	<case_numbers>F.M.A. 2268 of 2000<lb/>
+	</case_numbers>
+
+	<petitioner_lawyers>Mr. Rabindra Nath Mahato</petitioner_lawyers>
+	<extra>… for the<lb/> 
+	Appellant/Petitioner.<lb/>
+	</extra>
+
+	<petitioner_lawyers>Mr. Parimal Kumar Pahari</petitioner_lawyers>
+	<extra>… for the<lb/>
+	Respondents.<lb/>
+	</extra>
+
+		</front>
+	</text>
+</tei>

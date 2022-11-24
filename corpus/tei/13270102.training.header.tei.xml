@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="13270102"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+<lb/>
+	<extra>BEFORE<lb/></extra>
+
+	<judges>HON&apos;BLE THE CHIEF JUSTICE<lb/></judges>
+
+	<case_numbers>WP(C) No. 378 of 2017<lb/></case_numbers>
+	
+	<judgement_date>20.12.2017<lb/></judgement_date>
+
+		</front>
+	</text>
+</tei>

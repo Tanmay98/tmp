@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="13092626"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+<lb/>
+	<case_numbers>BA1 No.1802 of 2022<lb/></case_numbers>
+
+	<judges>Hon&apos;ble Ravindra Maithani, J.<lb/></judges>
+
+	<petitioner_lawyers>Ms. Manju Bahuguna </petitioner_lawyers>
+	
+	<extra>and</extra>
+	
+	<petitioner_lawyers>Mr. J.P.<lb/> Pandey</petitioner_lawyers>
+	
+	<extra>, Advocates for the applicant.<lb/></extra>
+
+	<respondent_lawyers>Mr. S.S. Adhikari</respondent_lawyers>
+	
+	<extra>, D.A.G. assisted by<lb/></extra>
+	
+	<respondent_lawyers>Mr. Balvinder Singh</respondent_lawyers>
+	
+	<extra>, Brief Holder for the<lb/> State.<lb/>
+	At the request of learned State<lb/>
+	Counsel, list this matter on 15.09.2022, so<lb/>
+	as to enable him to file objections.<lb/>
+	(Ravindra Maithani J.)<lb/></extra>
+	<judgement_date>05.08.2022<lb/></judgement_date>
+
+		</front>
+	</text>
+</tei>

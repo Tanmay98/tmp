@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="13042688"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+<lb/>
+	<extra>SL.<lb/> No<lb/>
+	Date<lb/>
+	Office Notes,<lb/>
+	reports, orders or<lb/> proceedings or<lb/> directions and<lb/> Registrar&apos;s order<lb/> with Signatures<lb/></extra>
+	
+	<document_type>	COURT&apos;S OR JUDGES&apos;S ORDERS<lb/></document_type>
+
+	<case_numbers>WPSB No.125 of 2021<lb/></case_numbers>
+
+	<judges>Shri Sanjaya Kumar Mishra, ACJ.<lb/>
+	 Shri Ramesh Chandra Khulbe, J.<lb/></judges>
+
+	<petitioner_lawyers>Mr. Siddharth Jain</petitioner_lawyers>
+	
+	<extra>, learned counsel<lb/> for the petitioner.<lb/></extra>
+
+		</front>
+	</text>
+</tei>

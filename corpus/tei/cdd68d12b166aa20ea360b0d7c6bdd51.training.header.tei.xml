@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="cdd68d12b166aa20ea360b0d7c6bdd51" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<extra>
+				BEFORE THE
+			</extra>
+			<court>
+				MADURAI BENCH OF MADRAS HIGH COURT
+				<lb />
+			</court>
+			<extra>
+				DATE:
+			</extra>
+			<judgement_date>
+				21.01.2022
+				<lb />
+			</judgement_date>
+			<extra>
+				CORAM
+				<lb />
+				THE
+			</extra>
+			<judges>
+				HON&apos;BLE MRS.JUSTICE V.BHAVANI SUBBAROYAN
+			</judges>
+			<case_numbers>
+				S.A.(MD) No.118 of 2017
+				<lb />
+				and
+				<lb />
+				M.P.(MD).No.2011 of 2017
+			</case_numbers>
+			<extra>
+				1.
+			</extra>
+			<petitioner>
+				B.K.Kumaranath
+				<lb />
+			</petitioner>
+			<extra>
+				2.
+			</extra>
+			<petitioner>
+				B.K.Ravindranath
+				<lb />
+			</petitioner>
+			<extra>
+				3.
+			</extra>
+			<petitioner>
+				B.K.Vatsala Bal
+				<lb />
+			</petitioner>
+			<extra>
+				.... Appellants
+				<lb />
+			</extra>
+			<extra>
+				vs.
+				<lb />
+			</extra>
+			<extra>
+				1.
+			</extra>
+			<respondent>
+				R.G.Suriyakala
+				<lb />
+			</respondent>
+			<extra>
+				2.
+			</extra>
+			<respondent>
+				K.N.R.Ramila
+				<lb />
+			</respondent>
+			<extra>
+				.. Respondents
+				<lb />
+			</extra>
+			<extra>
+				PRAYER: The Second Appeal is filed under Section 100 of  the Code of
+				<lb />
+				Civil Procedure against the judgment and decree dated 18.01.2016
+				<lb />
+				passed in A.S.No.35 of 2015 on the file of the Fourth Additional District
+				<lb />
+				Judge, Madurai, confirming the judgment and decree dated 25.02.2015
+				<lb />
+				passed in O.S.No.1102 of 2012 on the file of the Fifth Additional
+				<lb />
+				Subordinate Judge, Madurai.
+				<lb />
+			</extra>
+			<extra>
+				For Appellants
+				<lb />
+				:
+			</extra>
+			<petitioner_lawyers>
+				Mr.J.Barathan
+				<lb />
+			</petitioner_lawyers>
+			<extra>
+				For Respondents :
+			</extra>
+			<respondent_lawyers>
+				Mr.M.Rajaraman
+				<lb />
+			</respondent_lawyers>
+			<document_type>
+				J U D G M E N T
+			</document_type>
+		</front>
+	</text>
+</tei>

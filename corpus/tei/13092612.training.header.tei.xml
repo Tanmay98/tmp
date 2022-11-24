@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="13092612"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+<lb/>
+	<court>HIGH COURT OF UTTARAKHAND AT NAINITAL<lb/></court>
+
+	<case_numbers>First Bail Application No. 2305 of 2020<lb/></case_numbers>
+
+	<petitioner>Anil Kumar<lb/></petitioner>
+	
+	<extra>...Applicant<lb/>
+	Versus<lb/></extra>
+
+	<respondent>State of Uttarakhand<lb/></respondent>
+	
+	<extra>….Respondent<lb/> Present:-<lb/></extra>
+
+	<petitioner_lawyers>Mr. Rakesh Kumar Verma</petitioner_lawyers>
+	
+	<extra>, Advocate assisted by</extra>
+
+	<petitioner_lawyers>Mr. Lokendra Dobhal</petitioner_lawyers>
+	
+	<extra>,<lb/>Advocate for the applicant.<lb/></extra>
+
+	<respondent_lawyers>Mr. Lalit Miglani</respondent_lawyers>
+	
+	<extra>, A.G.A. assisted by</extra>
+
+	<respondent_lawyers>Ms. Sonika Khulbe</respondent_lawyers>
+	
+	<extra>, Brief Holder for<lb/> the State.<lb/></extra>
+
+	<judges>Hon&apos;ble Ravindra Maithani, J.</judges> 
+	
+	<extra>(Oral)<lb/>
+	Applicant Anil Kumar is in judicial custody, in FIR<lb/> No. 557 of 2020, under Section 8/21/22 of Narcotic Drugs and<lb/>
+	Psychotropic Substances Act, 1985 (&quot;the Act&quot;), Police Station<lb/>
+	Rudrapur, District Udham Singh Nagar. He has sought his<lb/> release on bail.</extra>
+
+		</front>
+	</text>
+</tei>

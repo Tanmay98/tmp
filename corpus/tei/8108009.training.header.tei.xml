@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="8108009"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+<lb/>
+	<court>HIGH COURT OF ANDHRA PRADESH AT AMARAVATI<lb/></court>
+
+	<case_numbers>MAIN CASE No.: Crl.A.No.862 of 2015<lb/></case_numbers>
+
+	<extra>PROCEEDING SHEET<lb/>
+	Sl.<lb/>
+	No<lb/>
+	DATE<lb/>
+	ORDER<lb/></extra>
+
+	<judgement_date>07. 10.8.2022<lb/></judgement_date>
+	
+	<judges>MGR, J &amp; TMR, J<lb/></judges>
+
+		</front>
+	</text>
+</tei>

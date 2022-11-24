@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="5720974" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<court>
+				HIGH COURT OF JUDICATURE FOR RAJASTHAN AT JODHPUR
+				<lb />
+			</court>
+			<case_numbers>
+				S.B. Arbitration Application No. 15/2018
+				<lb />
+			</case_numbers>
+			<petitioner>
+				Samaritan Consultancy And Tech. Services
+			</petitioner>
+			<extra>
+				, Through Its
+				<lb />
+				Proprietor Shri B.s. Kadam S/o Shri Sarjerao Dagi Kadam, Age
+				<lb />
+				62 Years, Add-110 Veena Industrial Estate, Lbs Marg Opposite
+				<lb />
+				Punjab And Sindh Bank, Vikroli (West) Mumbai 40086
+				<lb />
+				(Maharashtra)
+				<lb />
+				----Petitioner Versus
+				<lb />
+				1.
+				<lb />
+			</extra>
+			<respondent>
+				Union Of India
+			</respondent>
+			<extra>
+				, Through The Secretary To The Govt. Of
+				<lb />
+				India Ministry Of Railways, Rail Bhawan New Delhi.
+				<lb />
+				2.
+				<lb />
+			</extra>
+			<respondent>
+				North Western Railway, Jaipur
+			</respondent>
+			<extra>
+				, Through The General
+				<lb />
+				Manager.
+				<lb />
+				3.
+				<lb />
+			</extra>
+			<respondent>
+				The Deputy Chief Electrical Engineer
+			</respondent>
+			<extra>
+				, North Western
+				<lb />
+				Railway, Work -Shop, Jodhpur.
+				<lb />
+			</extra>
+			<extra>
+				----Respondents
+				<lb />
+				For Petitioner(s)
+				<lb />
+				:
+			</extra>
+			<petitioner_lawyers>
+				Mr. Hardik Gautam
+				<lb />
+			</petitioner_lawyers>
+			<extra>
+				For Respondent(s)
+				<lb />
+				:
+			</extra>
+			<respondent_lawyers>
+				Mr. Deepak Vyas
+				<lb />
+			</respondent_lawyers>
+			<judges>
+				JUSTICE DINESH MEHTA
+			</judges>
+			<document_type>
+				Judgment
+			</document_type>
+			<extra>
+				REPORTABLE
+				<lb />
+			</extra>
+			<judgement_date>
+				06/09/2021
+				<lb />
+			</judgement_date>
+		</front>
+	</text>
+</tei>

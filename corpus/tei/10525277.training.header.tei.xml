@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="10525277"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+<lb/>
+	<extra>IN THE</extra>
+
+	<court>HIGH COURT OF KARNATAKA AT BENGALURU<lb/></court>
+	<extra>DATED THIS THE </extra>
+	<judgement_date>12 TH DAY OF AUGUST, 2022<lb/></judgement_date>
+
+	<extra>BEFORE<lb/> THE</extra>
+
+	<judges>HON&apos;BLE MR. JUSTICE K. NATARAJAN<lb/></judges>
+
+	<case_numbers>CRIMINAL PETITION No.7461/2022<lb/></case_numbers>
+
+	<extra>BETWEEN:<lb/></extra>
+
+	<petitioner>Shiva P.S. @ Shivu<lb/></petitioner>
+	<extra>S/o Kala S<lb/> 
+	Aged about 31 years<lb/>
+	Residing at No.72, 4 th Cross<lb/> 
+	4 th Main, Singapura, Abbigere<lb/>
+	Chikkabanavar, Bangalore North<lb/> 
+	Bengaluru -560 090.<lb/>
+	…Petitioner<lb/> (By</extra>
+	
+	<petitioner_lawyers>Sri M R C Manohar</petitioner_lawyers>
+	
+	<extra>, Advocate)<lb/> AND:<lb/> 1.</extra>
+
+	<respondent>State by Cubbon Park<lb/> Police Station<lb/></respondent>
+	<extra>Represented by State<lb/>
+	Public Prosecutor<lb/> High Court Complex<lb/> Bengaluru -560 001.<lb/> 2.<lb/></extra>
+	
+	<respondent>Basavalingaiah<lb/></respondent>
+	
+	<extra>S/o Siddaiah<lb/> Aged about 42 years<lb/> R/at Bidadi Village and<lb/> Hobli, Ramanagara Taluk<lb/> Pin Code -562 109.<lb/>
+	…Respondents<lb/> (By</extra>
+	<respondent_lawyers>Sri R D Renukaradhya</respondent_lawyers>
+	<extra>, HCGP)<lb/></extra>
+
+		</front>
+	</text>
+</tei>

@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="13092653"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+<lb/>
+	<extra>SL.<lb/> No <lb/>
+	Date<lb/>
+	Office Notes,<lb/> reports, orders<lb/> or proceedings<lb/> or directions and<lb/> Registrar&apos;s order<lb/> with Signatures<lb/></extra>
+	
+	<document_type>COURT&apos;S OR JUDGES&apos;S ORDERS<lb/></document_type>
+
+	<judgement_date>06.08.2022<lb/></judgement_date>
+
+	<case_numbers>CRLA No. 305 of 2022<lb/></case_numbers>
+
+		</front>
+	</text>
+</tei>

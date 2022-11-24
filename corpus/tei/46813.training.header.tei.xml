@@ -1,0 +1,107 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="46813" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<case_numbers>
+				W.P.(C)5277/2021
+				<lb />
+			</case_numbers>
+			<extra>
+				<lb />
+				$~12
+				<lb />
+			</extra>
+			<extra>
+				*
+				<lb />
+				IN THE
+			</extra>
+			<court>
+				HIGH COURT OF DELHI AT NEW DELHI
+				<lb />
+			</court>
+			<extra>
+				%
+				<lb />
+				Date of decision:
+			</extra>
+			<judgement_date>
+				17.05.2021
+				<lb />
+			</judgement_date>
+			<extra>
+				+
+				<lb />
+			</extra>
+			<case_numbers>
+				W.P.(C) 5277/2021
+				<lb />
+			</case_numbers>
+			<petitioner>
+				RKKR FOUNDATION
+				<lb />
+			</petitioner>
+			<extra>
+				.....Petitioner
+				<lb />
+				Through:
+			</extra>
+			<petitioner_lawyers>
+				Mr. Rohit Jain with Mr. Aniket D.
+				<lb />
+				Agrawal
+			</petitioner_lawyers>
+			<extra>
+				, Advocates. versus
+				<lb />
+			</extra>
+			<respondent>
+				NATIONAL FACELESS ASSESSMENT CENTRE DELHI
+				<lb />
+				(EARLIER NATIONAL EASSESSMENT CENTRE DELHI) &amp;
+				<lb />
+				ANR.
+				<lb />
+			</respondent>
+			<extra>
+				.....Respondents
+				<lb />
+				Through:
+			</extra>
+			<respondent_lawyers>
+				Mr. Puneet Rai
+			</respondent_lawyers>
+			<extra>
+				, Sr. Standing
+				<lb />
+				Counsel with
+			</extra>
+			<respondent_lawyers>
+				Ms. Adeeba Mujahid and Ms.
+				<lb />
+				Niharika Rathore
+			</respondent_lawyers>
+			<extra>
+				, Advocates.
+				<lb />
+				CORAM:
+				<lb />
+			</extra>
+			<judges>
+				HON&apos;BLE MR. JUSTICE RAJIV SHAKDHER
+				<lb />
+				HON&apos;BLE MR. JUSTICE TALWANT SINGH
+				<lb />
+			</judges>
+			<extra>
+				[Court hearing convened via video-conferencing on account of COVID-19]
+				<lb />
+				RAJIV SHAKDHER, J.: (ORAL)
+				<lb />
+			</extra>
+		</front>
+	</text>
+</tei>

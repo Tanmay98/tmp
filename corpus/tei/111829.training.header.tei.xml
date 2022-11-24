@@ -1,0 +1,590 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="111829" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<extra>
+				IN THE
+			</extra>
+			<court>
+				HIGH COURT OF JUDICATURE AT BOMBAY
+				<lb />
+			</court>
+			<case_numbers>
+				CIVIL APPELLATE JURISDICTION
+				<lb />
+				INTERVENTION APPLICATION (ST) NO. 18348 OF 2021
+				<lb />
+			</case_numbers>
+			<extra>
+				IN
+				<lb />
+			</extra>
+			<case_numbers>
+				WRIT PETITION NO. 4947 OF 2021
+				<lb />
+			</case_numbers>
+			<extra>
+				Samina Arif Khan alias Dhanlaxmi Chandrakant Devrukhkar
+				<lb />
+				Age :
+				
+				52 years, Occupation : Housewife, Adult,
+				<lb />
+				Indian Inhabitant, residing at B-204, Sanghavi Complex,
+				<lb />
+				Pearl CHS Ltd.,
+				Naya Nagar, Near Ganga Complex,
+				<lb />
+				Mira Road (East), Mira Bhayander, Thane, Mira Road,
+				<lb />
+				Maharashtra 401 107.
+				<lb />
+				… Applicant
+				<lb />
+			</extra>
+			<extra>
+				In the matter between :
+				<lb />
+			</extra>
+			<petitioner>
+				Dhanlaxmi Chandu Devrukar alias Samina Arif Khan
+				<lb />
+			</petitioner>
+			<extra>
+				,
+				
+				Age … years, Occupation : Housewife, Indian Inhabitant,
+				<lb />
+				residing at 502, A-Wing, National Avenue CHS Ltd.,
+				<lb />
+				Akurali Road, Kandivali (East), Mumbai -400 101.
+				<lb />
+			</extra>
+			<extra>
+				… Petitioner
+				<lb />
+			</extra>
+			<extra>
+				Versus
+				<lb />
+			</extra>
+			<extra>
+				1.
+				<lb />
+			</extra>
+			<respondent>
+				The Town Planning/Land Acquisition Officer
+			</respondent>
+			<extra>
+				,
+				<lb />
+				Malad, Mumbai District, Administrative Building,
+				<lb />
+				5 th Floor, Natakwala Lane, S.V. Road, Borivali (East),
+				<lb />
+				Mumbai -400 095 through the Government Pleader,
+				<lb />
+				Appellate Side, High Court, Bombay.
+				<lb />
+			</extra>
+			<extra>
+				2.
+				<lb />
+			</extra>
+			<respondent>
+				The Deputy Director of Land and Survey Record
+			</respondent>
+			<extra>
+				,
+				<lb />
+				DD Building, 1 st Floor, Old Tax Building, Fort,
+				<lb />
+				Mumbai -400 023 through the Government Pleader,
+				<lb />
+				Appellate Side, High Court, Bombay.
+				<lb />
+			</extra>
+			<extra>
+				3.
+				<lb />
+			</extra>
+			<respondent>
+				The District Supt. Of Land and Survey Record
+			</respondent>
+			<extra>
+				,
+				<lb />
+				Administrative Building, 10 th Floor,
+				<lb />
+				Government Colony, Bandra (East),
+				<lb />
+				Mumbai -400 051 through Government Pleader,
+				<lb />
+				Appellate Side, High Court, Bombay.
+				<lb />
+			</extra>
+			<extra>
+				4.
+				<lb />
+			</extra>
+			<respondent>
+				Hon&apos;ble Revenue Minister
+			</respondent>
+			<extra>
+				, Mantralaya,
+				<lb />
+				Fort, Mumbai 400 023 through the
+				<lb />
+				Government Pleader,
+				
+				Appellate Side,
+				<lb />
+				High Court, Bombay.
+				<lb />
+			</extra>
+			<extra>
+				5.
+				<lb />
+			</extra>
+			<respondent>
+				The Mumbai Pradesh Congress Committee
+			</respondent>
+			<extra>
+				,
+				<lb />
+				Veerkope, Vakhadi, i.e. Village Chinchivali,
+				<lb />
+				Bandar Road, Malad (West), Mumbai -400 064.
+				<lb />
+			</extra>
+			<extra>
+				6.
+				<lb />
+			</extra>
+			<respondent>
+				Sardar Vallabhbhai Patel Academy Trust
+			</respondent>
+			<extra>
+				,
+				<lb />
+				Vittal Sadan, Congress Committee, V.P. Road,
+				<lb />
+				Fort, Mumbai -400 004.
+				<lb />
+			</extra>
+			<extra>
+				7.
+				<lb />
+			</extra>
+			<respondent>
+				Brahut Bharti Samaj Trust Devrukhwadi Wadi
+			</respondent>
+			<extra>
+				,
+				<lb />
+				Chinchivali, Bandar Road, Malad (West),
+				<lb />
+				Mumbai -400 064.
+				<lb />
+			</extra>
+			<extra>
+				… Respondents
+				<lb />
+			</extra>
+			<extra>
+				WITH
+				<lb />
+				CRIMINAL APPELLATE JURISDICTION
+				<lb />
+				SUO-MOTU CONTEMPT PETITION NO.
+				
+				1 OF 2021 IN
+				<lb />
+				INTERVENTION APPLICATION (ST) NO. 18348 OF 2021 IN
+				<lb />
+				WRIT PETITION NO. 4947 OF 2021
+				<lb />
+			</extra>
+			<petitioner>
+				High Court on its own Motion
+				<lb />
+			</petitioner>
+			<extra>
+				...
+				<lb />
+				Petitioner
+				<lb />
+			</extra>
+			<extra>
+				Versus
+				<lb />
+			</extra>
+			<extra>
+				1.
+				<lb />
+			</extra>
+			<respondent>
+				S.M. Naqvi
+				<lb />
+				Advocate and Notary, Government of India
+			</respondent>
+			<extra>
+				,
+				<lb />
+				49, Roshan Estate, Jari Mari, Kurla (West),
+				<lb />
+				Mumbai -400 070
+				<lb />
+			</extra>
+			<extra>
+				2.
+				<lb />
+			</extra>
+			<respondent>
+				Sandeep Sadanand Dharne
+			</respondent>
+			<extra>
+				,
+				<lb />
+				202, Laxmi Palace, Cross Road No.3,
+				<lb />
+				Liberty Garden, Malad (West),
+				<lb />
+				Mumbai -400 064.
+				<lb />
+			</extra>
+			<extra>
+				... Respondents
+			</extra>
+			<extra>
+				WITH
+				<lb />
+				ORDINARY ORIGINAL CIVIL JURISDICTION
+				<lb />
+				INTERIM APPLICATION (L) NO.
+				
+				23929 OF 2021 IN
+				<lb />
+				COMMERCIAL APPEAL (L) NO. 23906 OF 2021 IN
+				<lb />
+				INTERIM APPLICATION (L) NO. 23015 OF 2021 IN
+				<lb />
+				EXECUTION APPLICATION (L) NO. 19230 OF 2021 IN
+				<lb />
+				COMMERCIAL ARBITRATION PETITION NO. 20 OF 2020
+				<lb />
+			</extra>
+			<extra>
+				1.
+				<lb />
+			</extra>
+			<petitioner>
+				M/s. Sanskriti Developers,
+			</petitioner>
+			<extra>
+				<lb />
+				A partnership firm, registered under the
+				<lb />
+				Indian Partnership Act, 1932, having office at
+				<lb />
+				21, 13 th Khetwadi Lane, Mumbai -400 004.
+				<lb />
+			</extra>
+			<extra>
+				2.
+				<lb />
+			</extra>
+			<petitioner>
+				Mr. Vijay Jain
+			</petitioner>
+			<extra>
+				,
+				<lb />
+				having its office at 207, Mantri Building, SSP
+				<lb />
+				JSS Road, Girgaum, Mumbai -400 004.
+				<lb />
+			</extra>
+			<extra>
+				3.
+				<lb />
+			</extra>
+			<petitioner>
+				Hitesh Bohra
+			</petitioner>
+			<extra>
+				,
+				<lb />
+				Having office at 21, 13
+				
+				th Khetwadi Lane,
+				<lb />
+				Mumbai -400 004.
+				<lb />
+			</extra>
+			<extra>
+				4.
+				<lb />
+			</extra>
+			<petitioner>
+				M/s. D.R. Developers
+			</petitioner>
+			<extra>
+				,
+				<lb />
+				A proprietary concern through its Proprietor,
+				<lb />
+				Mr. Sailesh Vanigota, having its office at 207,
+				<lb />
+				Mantri Building, JSS Road, Girgaum,
+				<lb />
+				Mumbai 400 004.
+				<lb />
+			</extra>
+			<extra>
+				…
+				<lb />
+				Applicants/
+				<lb />
+				Original Appellants
+				<lb />
+			</extra>
+			<extra>
+				In the matter between :
+				<lb />
+			</extra>
+			<extra>
+				1.
+				<lb />
+			</extra>
+			<petitioner>
+				M/s. Sanskriti Developers
+			</petitioner>
+			<extra>
+				,
+				<lb />
+				A partnership firm, registered under the Indian
+				<lb />
+				Partnership Act, 1932, having office at 21,
+				<lb />
+				13 th Khetwadi Lane, Mumabi -400 004.
+				<lb />
+			</extra>
+			<extra>
+				2.
+				<lb />
+			</extra>
+			<petitioner>
+				Mr. Vijay Jain
+			</petitioner>
+			<extra>
+				,
+				<lb />
+				having its office at 207, Mantri Building,
+				<lb />
+				JSS Road, Girgaum, Mumbai -400 004.
+				<lb />
+			</extra>
+			<extra>
+				3.
+				<lb />
+			</extra>
+			<petitioner>
+				Hitesh Bohra
+			</petitioner>
+			<extra>
+				,
+				<lb />
+				Having office at 21, 13
+				
+				th Khetwadi Lane,
+				<lb />
+				Mumbai -400 004.
+				<lb />
+			</extra>
+			<extra>
+				4.
+				<lb />
+			</extra>
+			<petitioner>
+				M/s. D.R. Developers
+			</petitioner>
+			<extra>
+				,
+				<lb />
+				A proprietary concern through its Proprietor,
+				<lb />
+				Mr. Sailesh Vanigota, having its office at
+				
+				207,
+				<lb />
+				Mantri Building, JSS Road, Girgaum,
+				<lb />
+				Mumbai 400 004.
+				<lb />
+			</extra>
+			<extra>
+				…
+				<lb />
+				Appellants/ Respondents SSP
+				<lb />
+			</extra>
+			<extra>
+				Versus
+				<lb />
+			</extra>
+			<respondent>
+				M/s. Mandal Infrastructure Pvt. Ltd.
+				<lb />
+			</respondent>
+			<extra>
+				A private limited company having its Office at
+				<lb />
+				342, New Corporate Plaza, Ramchandra Lane,
+				<lb />
+				Malad (West), Mumbai -400 064.
+				<lb />
+			</extra>
+			<extra>
+				… Respondent
+				<lb />
+				…......
+				<lb />
+			</extra>
+			<petitioner_lawyers>
+				Mr. Ashok Dhanuka
+			</petitioner_lawyers>
+			<extra>
+				alongwith
+			</extra>
+			<petitioner_lawyers>
+				Mr. Aiqan Memon
+			</petitioner_lawyers>
+			<extra>
+				instructed by W3Legal, LLP for the
+				<lb />
+				Applicant in IAST 18348 of 2021.
+				<lb />
+			</extra>
+			<petitioner_lawyers>
+				Mr. Rohan Barge
+			</petitioner_lawyers>
+			<extra>
+				, for the Petitioner in WP 4947 of 2021.
+				<lb />
+			</extra>
+			<petitioner_lawyers>
+				Mrs. S.D.Vyas, &apos;B&apos;
+				<lb />
+			</petitioner_lawyers>
+			<extra>
+				Panel Counsel for the State in WP 4947 of 2021.
+				<lb />
+			</extra>
+			<petitioner_lawyers>
+				Mrs. Aruna Pai,
+			</petitioner_lawyers>
+			<extra>
+				Public Prosecutor, for the State in SMCP 1 of 2021.
+				<lb />
+			</extra>
+			<petitioner_lawyers>
+				Mr. D.P.Singh
+			</petitioner_lawyers>
+			<extra>
+				, for Union of India.
+				<lb />
+			</extra>
+			<petitioner_lawyers>
+				Mr. Sarif S. Khan
+			</petitioner_lawyers>
+			<extra>
+				, for Contemnor No.1 in SMCP 1 of 2021.
+				<lb />
+			</extra>
+			<petitioner_lawyers>
+				Mr. Mohd. Muqim Khan
+			</petitioner_lawyers>
+			<extra>
+				, for Contemnor No.2 in SMCP 1 of 2021.
+				<lb />
+			</extra>
+			<petitioner_lawyers>
+				Mr. Somnath Anchan
+			</petitioner_lawyers>
+			<extra>
+				for the auction purchaser.
+				<lb />
+			</extra>
+			<petitioner_lawyers>
+				Dr. Birendra Saraf
+			</petitioner_lawyers>
+			<extra>
+				, Senior Advocate alongwith
+			</extra>
+			<petitioner_lawyers>
+				Mr. Karl Tamboly, Mr. Satchit Bhogle
+				<lb />
+				instructed by Mr. Khan Javed Akhtar
+			</petitioner_lawyers>
+			<extra>
+				, for the Appellant.
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Mr. Sharan Jagtiani
+			</respondent_lawyers>
+			<extra>
+				, Senior Advocate alongwith
+			</extra>
+			<respondent_lawyers>
+				Ms. Surabhi Agrawal, Mr. Kashish
+				<lb />
+				Mainkar, Ms. Treesa Ann Benny instructed by Wadia Ghandy and Co.,
+			</respondent_lawyers>
+			<extra>
+				for the
+				<lb />
+				Respondent in Appeal (L) NO.23906 of 2021. .
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Mr. D.N.Kher, Court Receiver with Mr. A.B.Malwankar, Section Officer, present.
+				<lb />
+				Mr. Nausher Kohli, Amicus Curiae alongwith Mr. Akash Agarwal present.
+				<lb />
+			</respondent_lawyers>
+			<extra>
+				…......
+				<lb />
+			</extra>
+			<extra>
+				CORAM :
+			</extra>
+			<judges>
+				S.J. KATHAWALLA AND
+				<lb />
+				MILIND N. JADHAV, JJ.
+				<lb />
+			</judges>
+			<extra>
+				DATE :
+				<lb />
+			</extra>
+			<judgement_date>
+				18 th FEBRUARY, 2022
+				<lb />
+			</judgement_date>
+			<document_type>
+				JUDGMENT
+			</document_type>
+			<extra>
+				(PER : S.J. KATHAWALLA, J.
+				<lb />
+			</extra>
+		</front>
+	</text>
+</tei>

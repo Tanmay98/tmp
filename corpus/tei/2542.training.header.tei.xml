@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="2542" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<extra>
+				$~
+				<lb />
+				*
+				<lb />
+				IN THE
+			</extra>
+			<court>
+				HIGH COURT OF DELHI AT NEW DELHI
+				<lb />
+			</court>
+			<extra>
+				Reserved on: 24 th February, 2021
+				<lb />
+			</extra>
+			<extra>
+				Date of decision:
+			</extra>
+			<judgement_date>
+				9 th March, 2021
+				<lb />
+			</judgement_date>
+			<extra>
+				+
+				<lb />
+			</extra>
+			<case_numbers>
+				CS(COMM) 581/2020 &amp; I.A. 12750/2020
+				<lb />
+			</case_numbers>
+			<petitioner>
+				NATURES ESSENCE PRIVATE LIMITED
+				<lb />
+			</petitioner>
+			<extra>
+				..... Plaintiff
+				<lb />
+			</extra>
+			<extra>
+				Through:
+			</extra>
+			<petitioner_lawyers>
+				Mr. C. M. Lall
+			</petitioner_lawyers>
+			<extra>
+				, Sr. Adv.
+				<lb />
+				assisted by
+			</extra>
+			<petitioner_lawyers>
+				Ms. Nancy Roy, Ms. Palak
+				<lb />
+				Arora, Mr. Sanjay Aggarwal, Ms. Vasvi Jain
+				<lb />
+				and Ms. Radhika Arora
+			</petitioner_lawyers>
+			<extra>
+				, Advs.
+			</extra>
+			<extra>
+				versus
+				<lb />
+			</extra>
+			<respondent>
+				PROTOGREEN RETAIL SOLUTIONS PRIVATE
+				<lb />
+				LIMITED &amp; ORS.
+				<lb />
+			</respondent>
+			<extra>
+				..... Defendants
+				<lb />
+			</extra>
+			<extra>
+				Through:
+			</extra>
+			<respondent_lawyers>
+				Mr. Sumit R. Sharma, Mr.
+				<lb />
+				Aakarshan Aditya, Mr. Gaurav Dhwaj,
+				<lb />
+			</respondent_lawyers>
+			<extra>
+				Advs. for Defendant Nos.1 &amp; 2
+				<lb />
+			</extra>
+			<extra>
+				CORAM:
+				<lb />
+			</extra>
+			<judges>
+				HON&apos;BLE MR. JUSTICE C. HARI SHANKAR
+				<lb />
+			</judges>
+			<extra>
+				%
+				<lb />
+			</extra>
+			<document_type>
+				J U D G M E N T
+			</document_type>
+		</front>
+	</text>
+</tei>
