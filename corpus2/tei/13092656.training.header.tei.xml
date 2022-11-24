@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="13092656"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+<lb/>
+	<extra>SL.<lb/> No <lb/>
+	Date<lb/>
+	Office Notes, reports,<lb/> orders or proceedings<lb/> or directions and<lb/> Registrar&apos;s order with<lb/>
+	Signatures<lb/></extra>
+	
+	<document_type> COURT&apos;S OR JUDGES&apos;S ORDERS<lb/></document_type>
+	
+	<case_numbers>IA/11331/2021 </case_numbers>
+	
+	<extra>(Second Bail Application)<lb/> In<lb/></extra>
+	
+	<case_numbers>CRLA No.250 of 2018<lb/></case_numbers>
+	
+	<judges>Hon&apos;ble R.C. Khulbe, J.<lb/></judges>
+
+	<petitioner_lawyers>Mr. Aditya Singh</petitioner_lawyers>
+	
+	<extra>, learned counsel for the<lb/> appellant.<lb/></extra>
+
+	<respondent_lawyers>Mr. Rakesh Kumar Joshi</respondent_lawyers>
+	
+	<extra>, learned B.H. for the<lb/></extra>
+
+		</front>
+	</text>
+</tei>

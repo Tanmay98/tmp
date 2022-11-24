@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="13092687"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+<lb/>
+	<extra>SL.<lb/> No<lb/>
+	Date<lb/> Office Notes, reports,<lb/> orders or proceedings<lb/> or directions and<lb/> Registrar&apos;s order with<lb/> Signatures<lb/></extra>
+	
+	<document_type>COURT&apos;S OR JUDGES&apos;S ORDERS<lb/></document_type>
+
+	<judgement_date>06.08.2022<lb/></judgement_date>
+
+	<case_numbers>BA1 No. 1793 of 2022<lb/></case_numbers>
+
+	<judges>Hon&apos;ble Sharad Kumar Sharma, J.<lb/></judges>
+	
+	<respondent_lawyers>Mr. Ravi Shankar Kandpal</respondent_lawyers>
+	
+	<extra>,<lb/>
+	Advocate, for the applicant.<lb/></extra>
+
+	<respondent_lawyers>Ms. Lata Negi</respondent_lawyers>
+	
+	<extra>, Brief Holder, for the<lb/> State.<lb/></extra>
+
+		</front>
+	</text>
+</tei>

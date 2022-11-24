@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="175289" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<court>
+				HIGH COURT OF SIKKIM
+				<lb />
+			</court>
+			<extra>
+				Record of Proceedings through Video Conferencing
+				<lb />
+			</extra>
+			<case_numbers>
+				WA No.
+				
+				01 of 2017
+				<lb />
+			</case_numbers>
+			<petitioner>
+				M/S. NEKTOR ENGINEERS AND PROJECT CONSULTANTS
+				<lb />
+			</petitioner>
+			<extra>
+				...APPELLANT
+				<lb />
+			</extra>
+			<extra>
+				VERSUS
+				<lb />
+			</extra>
+			<respondent>
+				UNION OF INDIA AND OTHERS
+				<lb />
+			</respondent>
+			<extra>
+				...RESPONDENTS
+				<lb />
+			</extra>
+			<extra>
+				Date:
+			</extra>
+			<judgement_date>
+				17.10.2020
+				<lb />
+			</judgement_date>
+			<extra>
+				CORAM:
+				<lb />
+			</extra>
+			<judges>
+				HON&apos;BLE MR. JUSTICE ARUP KUMAR GOSWAMI
+				<lb />
+			</judges>
+			<extra>
+				, CHIEF JUSTICE
+			</extra>
+			<judges>
+				HON&apos;BLE MR. JUSTICE BHASKAR RAJ PRADHAN
+			</judges>
+			<extra>
+				, JUDGE
+			</extra>
+		</front>
+	</text>
+</tei>

@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="12582398"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+<lb/>
+	<court>HIGH COURT OF TRIPURA<lb/>
+	AGARTALA<lb/></court>
+
+	<case_numbers>I.A. No.1 of 2020<lb/>
+
+	in L.A. App. No.27 of 2020.<lb/></case_numbers>
+	
+	<extra>For Appellant-Applicant (s) :<lb/></extra>
+
+	<petitioner_lawyers>Mr. A.K. Deb</petitioner_lawyers>
+	
+	<extra>, Adv.<lb/>
+	For Respondent(s) :<lb/></extra>
+
+	<respondent_lawyers>Mr. P. Gautam</respondent_lawyers>
+	
+	<extra>, Adv.<lb/></extra>
+
+	<judges>HON&apos;BLE MR. JUSTICE S. TALAPATRA<lb/></judges>
+
+	<document_type>Order<lb/></document_type>
+
+	<judgement_date>20.10.2020<lb/></judgement_date>
+	
+	<extra>None appears for the respondent No.1 when the matter is called out.<lb/>
+
+	List this matter on	01.12.2020.<lb/>
+
+	Mr. A.K. Deb, learned counsel appears for the applicants and Mr. P.<lb/>
+	Gautam, learned counsel appears for the respondent No.2.<lb/>
+	JUDGE<lb/></extra>
+
+		</front>
+	</text>
+</tei>

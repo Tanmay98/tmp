@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="13270107"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+<lb/>
+	<extra>BEFORE<lb/></extra>
+
+	<judges>HON&apos;BLE MR. JUSTICE T. NANDAKUMAR SINGH<lb/></judges>
+
+	<judgement_date>09.12.2015<lb/></judgement_date>
+
+	<extra>Heard </extra>
+	
+	<petitioner_lawyers>Mr. SP Sharma</petitioner_lawyers>
+	
+	<extra>, learned counsel for the petitioner,</extra>
+
+	<respondent_lawyers>Ms.<lb/> PS Nongbri</respondent_lawyers>
+	
+	<extra>, learned counsel for the respondents No.1-4 and</extra>
+
+	<respondent_lawyers>Mr. P Nongbri</respondent_lawyers>
+	
+	<extra>,<lb/></extra>
+	
+		</front>
+	</text>
+</tei>

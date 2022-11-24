@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="5978372"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+<lb/>
+	<court>HIGH COURT OF JUDICATURE FOR RAJASTHAN<lb/> BENCH AT JAIPUR<lb/></court>
+
+	<case_numbers>S.B. Arbitration Application No. 160/2021<lb/></case_numbers>
+
+	<extra>Kmv Projects Limited, Through Its Director</extra>
+	
+	<petitioner>K Ramesh Chandra<lb/> Bose</petitioner>
+	
+	<extra>,<lb/> ----Petitioner Versus<lb/></extra>
+
+	<respondent>Malaviya National Institute Of Technology<lb/></respondent>
+	
+	<extra>----Respondent<lb/> For Petitioner(s) :</extra>
+
+	<petitioner_lawyers>Mr. M.M.Ranjan</petitioner_lawyers>
+	
+	<extra>, Sr. Adv. assisted by<lb/></extra>
+
+	<petitioner_lawyers>Mr. Rohan Agarwal<lb/></petitioner_lawyers>
+	
+	<extra>For Respondent(s)<lb/> :</extra>
+
+	<respondent_lawyers>Mr. S.L. Sharma</respondent_lawyers>
+	
+	<extra>for the Nathu Singh Chauhan<lb/></extra>
+
+	<judges>HON&apos;BLE MR. JUSTICE PANKAJ BHANDARI<lb/></judges>
+
+	<document_type>Judgment / Order<lb/></document_type>
+
+	<judgement_date>04/08/2022<lb/></judgement_date>
+
+		</front>
+	</text>
+</tei>

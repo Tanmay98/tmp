@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="O.M.P. (COMM)-273-2021" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<extra>
+				IN THE
+			</extra>
+			<court>
+				HIGH COURT OF DELHI AT NEW DELHI
+				<lb />
+			</court>
+			<document_type>
+				Judgment
+			</document_type>
+			<extra>
+				delivered on:
+			</extra>
+			<judgement_date>
+				25.03.2022
+				<lb />
+			</judgement_date>
+			<case_numbers>
+				O.M.P.(COMM) 273/2021 and IA Nos. 11808/2021 &amp;
+				<lb />
+				11810/2021
+				<lb />
+			</case_numbers>
+			<petitioner>
+				IRCON INTERNATIONAL LIMITED
+				<lb />
+			</petitioner>
+			<extra>
+				.....
+				petitioner
+			</extra>
+			<respondent>
+				GPT-RAHEE JV
+				<lb />
+			</respondent>
+			<extra>
+				.....
+				Respondent
+				<lb />
+			</extra>
+			<extra>
+				Advocates who appeared in this case:
+				<lb />
+			</extra>
+			<extra>
+				For the petitioner
+				:
+				<lb />
+			</extra>
+			<petitioner_lawyers>
+				Mr Suman K. Doval
+				<lb />
+			</petitioner_lawyers>
+			<extra>
+				, Advocate
+			</extra>
+			<extra>
+				For the Respondent:
+				<lb />
+			</extra>
+			<respondent_lawyers>
+				Mr Gourab Banerji
+			</respondent_lawyers>
+			<extra>
+				, Senior Advocate with
+			</extra>
+			<respondent_lawyers>
+				<lb />
+				Mr Anshuman Pande, Ms Gaurika Mohan and
+				<lb />
+				Ms Vishalakshi Singh
+				<lb />
+			</respondent_lawyers>
+			<extra>
+				, Advocates
+			</extra>
+			<extra>
+				CORAM
+				<lb />
+			</extra>
+			<judges>
+				HON&apos;BLE MR JUSTICE VIBHU BAKHRU
+				<lb />
+			</judges>
+			<document_type>
+				JUDGMENT
+				<lb />
+			</document_type>
+		</front>
+	</text>
+</tei>

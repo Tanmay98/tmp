@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="8108108"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+<lb/>
+	<court>HIGH COURT OF ANDHRA PRADESH AT AMARAVATI<lb/></court>
+
+	<case_numbers>MAIN CASE No. C.C.No.43 of 2022<lb/></case_numbers>
+
+	<extra>PROCEEDING SHEET<lb/></extra>
+
+	<extra>Sl.<lb/>
+	No<lb/>
+	DATE<lb/></extra>
+
+	<document_type>ORDER<lb/></document_type>
+	
+	<extra>OFFICE<lb/>
+	NOTE<lb/>
+	(11)<lb/></extra>
+	
+	<judgement_date>10.08.2022<lb/></judgement_date>
+	
+	<judges>UDPR, JUDPR, J<lb/></judges>
+
+		</front>
+	</text>
+</tei>

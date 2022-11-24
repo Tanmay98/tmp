@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="0ANMW2SYGH3VZZ5" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<extra>
+				IN THE
+			</extra>
+			<court>
+				HIGH COURT OF DELHI AT NEW DELHI
+				<lb />
+			</court>
+			<document_type>
+				Judgment
+			</document_type>
+			<extra>
+				delivered on:
+			</extra>
+			<judgement_date>
+				1 st February, 2016
+				<lb />
+			</judgement_date>
+			<case_numbers>
+				CRL.M.C. 282/2016
+				<lb />
+			</case_numbers>
+			<petitioner>
+				DHARMENDER PAL SONI &amp; ORS
+				<lb />
+			</petitioner>
+			<extra>
+				.....
+				Petitioner
+				<lb />
+			</extra>
+			<extra>
+				Represented by:
+			</extra>
+			<petitioner_lawyers>
+				Mr. R.K. Sharma
+			</petitioner_lawyers>
+			<extra>
+				and
+				<lb />
+			</extra>
+			<petitioner_lawyers>
+				Mr. Yogesh Chhabra
+				<lb />
+			</petitioner_lawyers>
+			<extra>
+				, Advs.
+			</extra>
+			<extra>
+				versus
+				<lb />
+			</extra>
+			<respondent>
+				STATE (NCT OF DELHI) &amp; ORS
+			</respondent>
+			<extra>
+				.....
+				Respondents
+				<lb />
+			</extra>
+			<extra>
+				Represented by:
+			</extra>
+			<respondent_lawyers>
+				Mr. Arun Kr. Sharma
+			</respondent_lawyers>
+			<extra>
+				, APP for
+				<lb />
+				State with SI Sachin Tomar, PS-Pandav Nagar.
+				<lb />
+			</extra>
+			<extra>
+				CORAM:
+				<lb />
+			</extra>
+			<judges>
+				HON&apos;BLE MR. JUSTICE SURESH KAIT
+				<lb />
+			</judges>
+		</front>
+	</text>
+</tei>

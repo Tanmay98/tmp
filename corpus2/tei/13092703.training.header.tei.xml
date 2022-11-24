@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="13092703"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+<lb/>
+	<court>HIGH COURT OF UTTARAKHAND AT NAINITAL<lb/></court>
+
+	<case_numbers>First Bail Application No. 1061 of 2022<lb/></case_numbers>
+
+	<petitioner>Akshay and others<lb/></petitioner>
+	
+	<extra>….....Applicants<lb/>
+	Versus<lb/></extra>
+
+	<respondent>State of Uttarakhand<lb/></respondent>
+	
+	<extra>….….Respondent<lb/> Present:-<lb/></extra>
+
+	<petitioner_lawyers>Mr. Shubhr Rastogi</petitioner_lawyers>
+	
+	<extra>and</extra>
+
+	<petitioner_lawyers>Mr. D.P. Mittal</petitioner_lawyers>
+	
+	<extra>,Advocates for the<lb/> applicants.<lb/></extra>
+
+	<respondent_lawyers>Mr. V.K. Jemini</respondent_lawyers>
+	
+	<extra>, Deputy Advocate General for the State.<lb/></extra>
+	
+	<judges>Hon&apos;ble Ravindra Maithani, J.</judges>
+	
+	<extra>(Oral)<lb/>
+	Applicants Akshay, Noshad and Sharan Nath are<lb/>
+	in judicial custody in FIR No.42 of 2022, under Sections<lb/>
+	395 and 412 IPC, Police Station Raiwala, District Dehradun.<lb/></extra>
+
+		</front>
+	</text>
+</tei>

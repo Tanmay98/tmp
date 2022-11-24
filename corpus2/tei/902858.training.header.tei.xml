@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="902858" />
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+			<lb />
+			<extra>
+				IN THE
+			</extra>
+			<court>
+				HIGH COURT OF DELHI AT NEW DELHI
+				<lb />
+			</court>
+			<extra>
+				Date of decision:
+			</extra>
+			<judgement_date>
+				26 th APRIL, 2022
+				<lb />
+			</judgement_date>
+			<extra>
+				IN THE MATTER OF:
+				<lb />
+			</extra>
+			<extra>
+				+
+				<lb />
+			</extra>
+			<case_numbers>
+				CRL.REV.P. 126/2022
+				<lb />
+			</case_numbers>
+			<petitioner>
+				JITENDRA KUMAR GARG
+				<lb />
+			</petitioner>
+			<extra>
+				..... Petitioner
+				<lb />
+			</extra>
+			<extra>
+				Through
+				<lb />
+			</extra>
+			<petitioner_lawyers>
+				Mr. Rajinder Mathur and Akshat
+				<lb />
+				Singhal,
+			</petitioner_lawyers>
+			<extra>
+				Advocates
+				<lb />
+			</extra>
+			<extra>
+				Versus
+				<lb />
+			</extra>
+			<respondent>
+				MANJU GARG
+				<lb />
+			</respondent>
+			<extra>
+				..... Respondent
+				<lb />
+			</extra>
+			<extra>
+				Through None
+				<lb />
+			</extra>
+			<extra>
+				CORAM:
+				<lb />
+			</extra>
+			<judges>
+				HON&apos;BLE MR. JUSTICE SUBRAMONIUM PRASAD
+			</judges>
+		</front>
+	</text>
+</tei>

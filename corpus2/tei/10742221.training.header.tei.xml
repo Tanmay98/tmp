@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="10742221"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+<lb/>
+	<extra>IN. 13<lb/> IN THE</extra>
+
+	<court>HIGH COURT OF MANIPUR<lb/> AT IMPHAL<lb/></court>
+
+	<case_numbers>WP(C) No. 654 of 2022<lb/></case_numbers>
+
+	<petitioner>Manipur Hills</petitioner>
+	
+	<extra>and</extra>
+	
+	<petitioner>Plain Contractors Assn. &amp; ors.<lb/></petitioner>
+	
+	<extra>… Petitioners<lb/>
+	Vs.<lb/></extra>
+
+	<respondent>State of Manipur &amp; ors.<lb/></respondent>
+	
+	<extra>… Respondents<lb/>
+	B E F O R E<lb/></extra>
+
+	<judges>HON&apos;BLE MR. JUSTICE AHANTHEM BIMOL SINGH<lb/></judges>
+
+	<judgement_date>12-08-2022<lb/></judgement_date>
+
+		</front>
+	</text>
+</tei>

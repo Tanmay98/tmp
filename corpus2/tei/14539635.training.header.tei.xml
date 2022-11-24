@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="14539635"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+
+	<page>1<lb/></page>
+
+	<extra>(10)<lb/>
+	24.12.2014<lb/>
+	(k.c. &amp; p.j.)<lb/></extra>
+	
+	<case_numbers>FMA 4501 of 2014<lb/>
+	With<lb/>
+	CAN 12399 of 2014 (stay)<lb/></case_numbers>
+
+	<petitioner>Aditya Karmakar<lb/></petitioner>
+	
+	<extra>-Versus-<lb/></extra>
+	
+	<respondent>Bank of India &amp; Ors.<lb/></respondent>
+
+	<petitioner_lawyers>Mr. Partha Ghosh<lb/>
+	Mr. Kunal Ganguly<lb/></petitioner_lawyers>
+	
+	<extra>… for the appellant<lb/></extra>
+	
+	<respondent_lawyers>Mr. R.N. Majumder<lb/>
+	Mr. Sourav Chakraborty<lb/>
+	Mr. Supratim Bhattacharjee<lb/></respondent_lawyers>
+	
+	<extra>… for the respondents<lb/></extra>
+
+		</front>
+	</text>
+</tei>

@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="5978382"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+<lb/>
+	<court>HIGH COURT OF JUDICATURE FOR RAJASTHAN<lb/> BENCH AT JAIPUR<lb/></court>
+
+	<case_numbers>S.B. Arbitration Application No. 111/2020<lb/></case_numbers>
+
+	<petitioner>Hotel Sunbirds<lb/></petitioner>
+	
+	<extra>----Applicant<lb/>
+	Versus<lb/></extra>
+
+	<respondent>State Of Rajasthan &amp; Anr.<lb/></respondent>
+	
+	<extra>----Non-Applicants<lb/> For Applicant(s) :</extra>
+
+	<petitioner_lawyers>Mr. J.K. Moolchandani<lb/></petitioner_lawyers>
+	
+	<extra>For Non-Applicant(s) :</extra>
+
+	<respondent_lawyers>Mr. Yashodhar Pandey</respondent_lawyers>
+	
+	<extra>for<lb/> Mr. Anil Mehta,
+	AAG<lb/></extra>
+
+	<judges>HON&apos;BLE MR. JUSTICE PANKAJ BHANDARI<lb/></judges>
+
+	<document_type>Order<lb/></document_type>
+
+<judgement_date>04/08/2022<lb/></judgement_date>
+
+	<extra>List on
+	17.08.2022.<lb/> </extra>
+	
+	<extra>(PANKAJ BHANDARI),J</extra>
+
+		</front>
+	</text>
+</tei>

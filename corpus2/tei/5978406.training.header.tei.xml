@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="5978406"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+<lb/>
+	<court>HIGH COURT OF JUDICATURE FOR RAJASTHAN<lb/> BENCH AT JAIPUR<lb/></court>
+
+	<case_numbers>S.B. Civil First Appeal No. 314/2022<lb/></case_numbers>
+
+	<petitioner>Giriraj Prasad Sharma</petitioner>
+	
+	<extra> (Deceased) &amp; ors.<lb/>
+	----Appellants Versus<lb/></extra>
+
+	<respondent>Ramswroop</respondent>
+	
+	<extra> S/o Chiranjilal (Deceased) &amp; Ors.<lb/>
+	    ----Respondents<lb/> For Appellant(s) :</extra>
+
+	<respondent_lawyers>Mr. Sanjay Joshi<lb/> Mr. Banvari Lal Saini<lb/></respondent_lawyers>
+	
+	<extra>For Respondent(s) :<lb/></extra>
+
+	<judges>HON&apos;BLE MR. JUSTICE SUDESH BANSAL<lb/></judges>
+
+	<document_type>Order<lb/></document_type>
+
+	<judgement_date>05/08/2022</judgement_date>
+
+		</front>
+	</text>
+</tei>

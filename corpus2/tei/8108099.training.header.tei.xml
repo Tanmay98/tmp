@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="8108099"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+<lb/>
+	<court>HIGH COURT OF ANDHRA PRADESH A AMARAVATI<lb/></court>
+
+	<case_numbers> MAIN CASE 
+	    No.: C.C.No.696 of 2021<lb/></case_numbers>
+
+	<extra>PROCEEDING SHEET<lb/>
+	Sl.<lb/>
+	No<lb/>
+	DATE<lb/></extra>
+
+	<document_type>ORDER<lb/></document_type>
+
+		</front>
+	</text>
+</tei>

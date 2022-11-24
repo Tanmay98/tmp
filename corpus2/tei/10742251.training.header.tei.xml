@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="10742251"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+<lb/>
+	<extra>IN THE </extra>
+
+	<court>HIGH COURT OF MANIPUR<lb/> AT IMPHAL<lb/></court>
+
+	<case_numbers>WP (C) No. 112 of 2018<lb/></case_numbers>
+
+	<petitioner>Y. Devendro Singh<lb/></petitioner>
+	
+	<extra>Petitioner<lb/>
+	Vs.<lb/></extra>
+	
+	<respondent>Manipur Legislative Assembly<lb/></respondent>
+	
+	<extra>Respondent<lb/>
+	With<lb/></extra>
+
+	<case_numbers>MC (WP(C)) No. 269 of 2018<lb/></case_numbers>
+
+	<extra>BEFORE<lb/></extra>
+
+	<judges>HON&apos;BLE THE CHIEF JUSTICE MR. SANJAY KUMAR<lb/>
+	HON&apos;BLE MR. JUSTICE MV MURALIDARAN<lb/></judges>
+	
+	<judgement_date>12.08.2022.<lb/></judgement_date>
+	
+	<extra> Sanjay Kumar (C.J.):<lb/></extra>
+
+		</front>
+	</text>
+</tei>

@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<tei xml:space="preserve">
+	<teiHeader>
+		<fileDesc xml:id="13092701"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+<lb/>
+	<court>HIGH COURT OF UTTARAKHAND AT NAINITAL<lb/></court>
+
+	<case_numbers>First Bail Application No.1135 of 2022<lb/></case_numbers>
+
+	<petitioner>Mithun Ray<lb/></petitioner>
+	<extra>...Applicant<lb/>
+	Versus<lb/></extra>
+
+	<respondent>State of Uttarakhand<lb/></respondent>
+	
+	<extra>...Respondent<lb/> Present:-<lb/></extra>
+
+	<petitioner_lawyers>Mr. S.R.S. Gill</petitioner_lawyers>
+	
+	<extra>, Advocate for the applicant.<lb/></extra>
+
+	<respondent_lawyers>Mr. Lalit Miglani</respondent_lawyers>
+	
+	<extra>, A.G.A. with</extra>
+	
+	<respondent_lawyers>Ms. Sonika Khulbe</respondent_lawyers>
+	
+	<extra>, Brief<lb/> Holder for the State.<lb/></extra>
+
+	<judges>Hon&apos;ble Ravindra Maithani, J.</judges>
+
+	<extra>(Oral)<lb/> Applicant Mithun Ray is in judicial custody in FIR<lb/>
+	No.64 of 2022, under Section 306 and 376 IPC, Police<lb/>
+	Station Sitarganj, District Udham Singh Nagar. He has<lb/>
+	sought his release on bail.<lb/>
+	2. Heard learned counsel for the parties and perused<lb/></extra>
+
+		</front>
+	</text>
+</tei>
